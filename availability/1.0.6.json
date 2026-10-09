@@ -19,9 +19,8 @@
     "itch-android": {
       "type": "itch",
       "selected": true,
-      "status": "held",
-      "live": false,
-      "holdReason": "Awaiting handset gameplay verification of the prepared APK."
+      "status": "awaiting-store-action",
+      "live": true
     },
     "steam": {
       "type": "steam",
