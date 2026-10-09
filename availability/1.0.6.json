@@ -19,7 +19,7 @@
     "itch-android": {
       "type": "itch",
       "selected": true,
-      "status": "awaiting-store-action",
+      "status": "succeeded",
       "live": true
     },
     "steam": {
