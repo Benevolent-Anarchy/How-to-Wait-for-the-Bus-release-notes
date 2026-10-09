@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generator": "ba-release",
+  "version": "1.0.6",
+  "sourceCommit": "5af536febcaf5935e8e6feadf24d67c3988e05a0",
+  "destinations": {
+    "itch-windows": {
+      "type": "itch",
+      "selected": true,
+      "status": "awaiting-store-action",
+      "live": true
+    },
+    "itch-linux": {
+      "type": "itch",
+      "selected": true,
+      "status": "awaiting-store-action",
+      "live": true
+    },
+    "itch-android": {
+      "type": "itch",
+      "selected": true,
+      "status": "held",
+      "live": false,
+      "holdReason": "Awaiting handset gameplay verification of the prepared APK."
+    },
+    "steam": {
+      "type": "steam",
+      "selected": true,
+      "status": "awaiting-store-action",
+      "live": false,
+      "buildId": "25830488"
+    },
+    "google-play": {
+      "type": "google-play",
+      "selected": true,
+      "status": "held",
+      "live": false,
+      "holdReason": "Awaiting completion of the existing Google Play review; resume only after verifying it has cleared or with explicit owner authorization.",
+      "versionCode": 28
+    }
+  }
+}
