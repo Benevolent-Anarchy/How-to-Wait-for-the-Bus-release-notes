@@ -26,8 +26,8 @@
     "steam": {
       "type": "steam",
       "selected": true,
-      "status": "awaiting-store-action",
-      "live": false,
+      "status": "succeeded",
+      "live": true,
       "buildId": "25830488"
     },
     "google-play": {
