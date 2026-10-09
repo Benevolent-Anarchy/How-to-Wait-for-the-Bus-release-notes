@@ -7,13 +7,13 @@
     "itch-windows": {
       "type": "itch",
       "selected": true,
-      "status": "awaiting-store-action",
+      "status": "succeeded",
       "live": true
     },
     "itch-linux": {
       "type": "itch",
       "selected": true,
-      "status": "awaiting-store-action",
+      "status": "succeeded",
       "live": true
     },
     "itch-android": {
