@@ -32,9 +32,8 @@
     "google-play": {
       "type": "google-play",
       "selected": true,
-      "status": "held",
+      "status": "submitted",
       "live": false,
-      "holdReason": "Awaiting completion of the existing Google Play review; resume only after verifying it has cleared or with explicit owner authorization.",
       "versionCode": 28
     }
   }
